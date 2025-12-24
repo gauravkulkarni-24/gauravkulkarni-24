@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**gauravkulkarni-24/gauravkulkarni-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst passionate about turning data into insights.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- Skilled in Python, SQL, EDA, Advanced Statistics and Power BI
+- Experience with real-world datasets & web scraping
+- Strong focus on data cleaning, analysis, and storytelling
+- Continuously learning and building projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Joins, Aggregations, Subqueries)
+- Power BI (Dashboards, DAX, KPIs)
+- Excel (Analysis & Visualization)
+- Web Scraping (Requests, BeautifulSoup)
+
+## 📂 Featured Projects
+- 🥭 Mango Market Analysis (Web Scraping + EDA)
+- 📊 Mango Market Insights – Power BI Dashboard
+- 🌦️ Telangana Weather Analysis – Power BI
+- ⚡ World Energy Consumption Analysis (SQL)
+
+## 🎯 What I'm Working On
+- Advanced Power BI dashboards
+- Automation & end-to-end analytics
+- Preparing for data analyst roles
+
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/gaurav-kulkarni-6b4aa422a/
