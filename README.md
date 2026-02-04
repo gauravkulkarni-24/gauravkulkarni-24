@@ -9,6 +9,7 @@
 - Worked with real-world, messy datasets including self-collected data (web scraping)
 - Strong focus on data cleaning, exploratory analysis, and insight-driven storytelling
 - Comfortable translating data patterns into business-relevant understanding
+- Actively building ML projects to solve real-world problems 
 - Continuously learning, building, and improving through practical projects
 
 ---
@@ -20,6 +21,18 @@
 - **Excel**: Data Analysis & Visualization  
 - **Web Scraping**: Requests, BeautifulSoup
 - **Machine Learning**: Data preprocessing, feature engineering, model evaluation 
+
+---
+
+## 🤖 Machine Learning
+
+- Supervised & Unsupervised Learning
+- Data preprocessing (handling missing values, encoding, scaling)
+- Feature engineering & feature selection
+- Model building, training, and evaluation
+- Algorithms: Linear Regression, Logistic Regression, KNN, Naive Bayes, Decision Tree
+- Model evaluation metrics (Accuracy, Precision, Recall, F1-score, RMSE)
+- Overfitting, underfitting, bias–variance understanding
 
 ---
 
@@ -55,6 +68,7 @@
 ---
 
 ## 🎯 What I'm Currently Working On
+- Machine Learning projects with real-world datasets
 - Advanced Power BI dashboards & data storytelling  
 - Automation and end-to-end analytics workflows  
 - Preparing for entry-level Data Analyst roles  
