@@ -1,4 +1,4 @@
-# Hi, I'm Gaurav 👋  
+# Hi, I'm Gaurav Kulkarni👋  
 
 📊 Data Analyst passionate about transforming real-world data into clear insights and impactful dashboards.
 
