@@ -28,13 +28,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-### 🤖 Machine Learning
+#### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge&logo=brain&logoColor=white)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-512BD4?style=for-the-badge&logo=circuit-board&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2ea44f?style=for-the-badge&logo=check-circle&logoColor=white)
 
-### 🗄️ Databases
+#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
