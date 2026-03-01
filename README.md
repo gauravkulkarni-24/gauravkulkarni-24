@@ -15,12 +15,25 @@
 ---
 
 ## 🛠️ Tools & Skills
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **SQL**: Joins, Aggregations, Subqueries, Analysis Queries  
-- **Power BI**: Interactive Dashboards, DAX, KPIs, Data Modeling  
-- **Excel**: Data Analysis & Visualization  
-- **Web Scraping**: Requests, BeautifulSoup
-- **Machine Learning**: Data preprocessing, feature engineering, model evaluation 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📊 Visualization & BI Tools
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge&logo=brain&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-512BD4?style=for-the-badge&logo=circuit-board&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2ea44f?style=for-the-badge&logo=check-circle&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
