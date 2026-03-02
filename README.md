@@ -90,4 +90,17 @@
 
 ---
 
+### 📜 Verified Certifications
+
+| Certificate Name | Issuing Organization | Verification |
+| :--- | :--- | :--- |
+| **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1pb0hAI3s02z2OyPEViuWfogUaroriix4/view?usp=drive_link) |
+| **🗄️ Data Analysis with MySQL** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1Rb8UcFN6MQuohU9Wc2KBUn-_H5X_q_11/view?usp=drive_link) |
+| **📊 Exploratory Data Analysis** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1Rv6R8qVYrWBdmuxXVoB-LWsw9uxIiPtH/view?usp=drive_link) |
+| **📈 Power BI** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1R168G3gGptQqfwyc4yNzkB2y8bmsriSd/view?usp=drive_link) |
+| **🤖 Machine Learning** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1CUP_52kdqp2uq4hziD_GNfPKeQxlNGkO/view?usp=drive_link) |
+| **📘 Data Analysis with Python** | IBM | [View Certificate ➔](https://drive.google.com/file/d/1GqbjSk8w5GKyKaYFIQiTYz-pNYoyX-tS/view?usp=drive_link) |
+
+---
+
 📫 **Connect with me on LinkedIn**: https://www.linkedin.com/in/gaurav-kulkarni-6b4aa422a/
