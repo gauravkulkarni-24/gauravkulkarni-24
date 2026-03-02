@@ -90,7 +90,7 @@
 
 ---
 
-### 📜 Verified Certifications
+## 📜 Verified Certifications
 
 | Certificate Name | Issuing Organization | Verification |
 | :--- | :--- | :--- |
